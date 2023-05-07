@@ -1,0 +1,47 @@
+ {
+  "project_info": {
+    "project_number": "423124138308",
+    "project_id": "idopontfoglalo-c8b85",
+    "storage_bucket": "idopontfoglalo-c8b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423124138308:android:fccf1b40f8f6f9ce1bff11",
+        "android_client_info": {
+          "package_name": "com.example.idopontfoglalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423124138308-knlr1bl3pck67dhdflbb8fq1659cuov8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idopontfoglalo",
+            "certificate_hash": "2be2c943f641c5e581d7a280e7a08f8031dc2d43"
+          }
+        },
+        {
+          "client_id": "423124138308-a1s83k6d1c2epmu013vde47s51hguefp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjo0T7QId_5XaCaGuIiBO0qql3Ol9Xdv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423124138308-a1s83k6d1c2epmu013vde47s51hguefp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
