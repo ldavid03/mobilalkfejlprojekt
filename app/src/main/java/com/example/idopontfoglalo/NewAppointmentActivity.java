@@ -56,8 +56,6 @@ public class NewAppointmentActivity extends AppCompatActivity {
             calendar.add(Calendar.DATE, 1);
             dateList.add(calendar.getTime());
         }
-
-        // Convert the list of dates to a list of formatted date strings
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy MMM d", new Locale("hu", "HU"));
         List<String> dateStringList = new ArrayList<>();
         for (Date date : dateList) {
